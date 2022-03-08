@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e28a5e41-3009-4cde-9788-7210a8031a02": {
+      "ProjectGuid": "e28a5e41-3009-4cde-9788-7210a8031a02",
+      "DisplayName": "ClockApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

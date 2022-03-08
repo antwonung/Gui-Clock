@@ -1,0 +1,6 @@
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\bin\Debug\TimeLibary.dll
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\bin\Debug\TimeLibary.pdb
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\obj\Debug\ClockLibary.csproj.AssemblyReference.cache
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\obj\Debug\ClockLibary.csproj.CoreCompileInputs.cache
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\obj\Debug\TimeLibary.dll
+C:\Users\sjobe\source\repos\Laboration1Clock\ClockApp\TimeLibary\obj\Debug\TimeLibary.pdb
